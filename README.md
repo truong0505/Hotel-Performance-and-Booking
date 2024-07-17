@@ -1,6 +1,8 @@
 # Hotel-Performance-and-Booking
-Hotel Performance and Booking
+HotelPerformance
 ![Hotel1](https://github.com/user-attachments/assets/556759f6-104f-4429-8926-b0adf93671e8)
+
+Booking Control
 
 
 
